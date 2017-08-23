@@ -9,8 +9,7 @@ A C++ implementation of our paper, "Hawkes Process Modeling of Adverse Drug Reac
 >   year={2017},
 > }
 
-## Data format
-
-## Running on the synthetic example
 
 ## Todo:
++ Data format
++ Running on the synthetic example

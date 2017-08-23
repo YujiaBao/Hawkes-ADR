@@ -20,9 +20,9 @@ Each row in the data file represent the trajectory of one patient, which is a se
 
 where 0 <= t_1 <= ... <= t_n and m_i in {1,...,numOfVariables}. 
 
-We assume {1,...,numOfOutcomes} to be the indices for the adverse outcomes and {numOfOutcomes+1,...,numOfVariables} to be the idices for the drugs of interest.
+We assume {1,...,numOfOutcomes} to be the indices for the adverse outcomes and {numOfOutcomes+1, ..., numOfVariables} to be the indices for the drugs of interest.
 
-The Marshfield Clinic EHR data is not publicly available due to patients' privacy. We provide an example synthetic data generated from a Poisson autoregressive model. 
+The Marshfield Clinic EHR data is not publicly available due to patients' privacy. We provide a synthetic data generated from a Poisson autoregressive model for illustration. 
 
 ---
 

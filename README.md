@@ -19,3 +19,8 @@ where $0\leq t_1\leq\cdots\leq t_n$ and $m_i\in\{1,\ldots,\text{numOfVariables}\
 
 ## Todo:
 
+=======
+
+## Todo:
++ Data format
++ Running on the synthetic example

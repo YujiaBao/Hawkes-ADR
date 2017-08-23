@@ -41,4 +41,4 @@ g++ --std=c++14 Hawkes.cpp -o Hawkes.out
 
 The MIT License (MIT)
 
-Copyright (c) 2017 Michael Rose
+Copyright (c) 2017 Yujia Bao 

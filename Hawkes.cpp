@@ -334,7 +334,7 @@ void updateBaseline (dataPackage *info) {
                 integral += tmp * wholeDuration[p][ii];
             }
 
-            if (isinf(integral) || isnan(integral)) {
+            if (std::isinf(integral) || std::isnan(integral)) {
                 cerr << "Invalid integral value. Need to shrink step size for FISTA." << endl;
                 exit(1);
             }

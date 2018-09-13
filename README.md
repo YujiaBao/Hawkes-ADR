@@ -29,8 +29,9 @@ The Marshfield Clinic EHR data is not publicly available due to patients' privac
 ## Code Usage
 1. Compile
 ```
-g++ --std=c++14 -pthread Hawkes.cpp -o Hawkes.out 
+g++ --std=c++14 -pthread Hawkes.cpp -o Hawkes.out
 ```
+
 2. Example run
 ```
 ./Hawkes.out -f path_to_data -k num_of_kernels -w length_of_windows -l lasso_regularizations
